@@ -1,0 +1,57 @@
+What is Web Browser?
+--------------------
+
+Web Browser Is a Software which allows web user to browse Program the web.
+
+Finally We can say web browser is acting as a mediator b/w web user and web.
+
+EX: chrome, IE, mozilla…ets
+
+
+What is Web Server?
+-------------------
+
+Server is a SW program which is running in a machine by providing services to another SW programs called client.
+
+What is Web Site?
+-----------------
+
+Web site is a collection of web pages.
+
+
+What is Web Page?
+-----------------
+
+   A page which is providing information to the user through web is called as web page.
+
+   Web pages are two types.
+
+1.	Static Web page
+2.	Dynamic web page
+
+
+What is Static Web Page?
+------------------------
+
+A page which is providing information to the user without user interaction is know as “Static Web Page”.
+
+Ex : enadu,hindu…ets
+
+
+
+What is Dynamic Web Page?
+-------------------------
+
+  A page which is providing information to the user with user interaction is know as “Dynamic Web Page”.
+
+Ex : Login, registration ets…
+
+
+
+
+
+
+
+
+
+
